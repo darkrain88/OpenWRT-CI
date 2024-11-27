@@ -84,3 +84,4 @@ UPDATE_VERSION() {
 UPDATE_VERSION "sing-box"
 UPDATE_VERSION "tailscale"
 UPDATE_VERSION "zerotier"
+UPDATE_VERSION "softethervpn5-server"
